@@ -6,7 +6,7 @@ System Requirements/Setting
 How to run the program:
 1. Set up your environment with the files (you do not necessarily need process.py as intents.json substitutes for it. Download intents.json & train.py)
 2. Edit the location adress of the **intents.json** in the **train.py** file to the correct location in your machine (for me, the location adress was "C:\\Users\\Chris\\Desktop\\intents.json", which is going to be different for you)
-3. Open the termina/command prompt
+3. Open the terminal/command prompt
 4. Type "python train.py" to run the program.
 
 What I Learned:
