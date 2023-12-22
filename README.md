@@ -2,6 +2,10 @@ System Requirements/Setting
 - My Operating System = Windows 10
 - Python 3.9.5
 - Need To Install: Tensorflow, Numpy, Nltk (install these through the command prompt)
+  - I installed these by typing the following codes in the Command Prompt (terminal for Mac OS)
+    - pip install nltk
+    - pip install numpy
+    - pip install tensorflow
 
 How to run the program:
 1. Set up your environment with the files (you do not necessarily need process.py as intents.json substitutes for it. Download intents.json & train.py)
